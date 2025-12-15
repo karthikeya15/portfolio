@@ -22,11 +22,11 @@ export default function Hero() {
         >
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6">
             Hi, I'm{' '}
-            <span className="text-primary-600 dark:text-primary-400">
+            <span className="text-[#004FD8] dark:text-primary-400">
               Karthikeya Rayavarapu
             </span>{" "}
             <br />
-            <span className="text-primary-800 dark:text-primary-400">
+            <span className="text-[#FF9703] dark:text-primary-400">
               Full Stack Developer
             </span>
           </h1>

@@ -21,7 +21,7 @@ export default function Footer() {
               <FaLinkedin size={24} />
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/karthikeya15"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"

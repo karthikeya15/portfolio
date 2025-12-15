@@ -27,7 +27,7 @@ export default function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/karthikeya15"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 px-8 py-4 bg-gray-900 dark:bg-gray-700 text-white rounded-lg font-semibold hover:bg-gray-800 dark:hover:bg-gray-600 transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-1 w-full sm:w-auto justify-center"
